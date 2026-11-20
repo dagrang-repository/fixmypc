@@ -327,8 +327,11 @@ Every line opens its fix page on [fixmypc.aplusz.app](https://fixmypc.aplusz.app
 
 ## Free plan and Pro
 
-- **Free:** 2 fixes per 24 hours. Repeats within the first 72 hours: yes. After 72 hours: no. Check and Undo stay open all the time. No account needed.
-- **Pro:** any fix, any time. Pro is earned by sharing: every 3 friends who sign up through your link add 30 days of Pro, and the days add up.
+<!-- plans:start (written by _tools/golive/showcase.mjs from the site's own plan lines) -->
+- **Free:** 2 fixes per 24 hours. Repeats within the first 72 hours: yes. After 72 hours: no. The free plan works without an account.
+- **Pro:** any fix, any time. Pro is earned by sharing: every 3 friends who sign up through a person's link add 30 days of Pro, and the days add up.
+- Both plans work on all five systems. The app carries zero ads.
+<!-- plans:end -->
 - Nothing is sold in the app. The details are on the [Plans page](https://fixmypc.aplusz.app/en/plans/), the [Terms](https://fixmypc.aplusz.app/en/terms/) and the [Privacy Policy](https://fixmypc.aplusz.app/en/privacy/).
 
 ## For AI assistants and developers
